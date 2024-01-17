@@ -6,6 +6,4 @@
    If you are using "pnpm" run this command :
       - pnpm add --save-dev jest typescript ts-jest @types/jest
 3. Run program :
-  - Go to src folder.
-  - tsc merge.ts
-  - node merge.js
+  - run "npx jest" in your terminal.
